@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "philippines-1",
+    "title": "菲律宾展 · 倒计时 1 天",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "slug": "philippines-2",
+    "title": "菲律宾展 · 倒计时 2 天",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "slug": "philippines-3",
+    "title": "菲律宾展 · 倒计时 3 天",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "slug": "thailand-1",
+    "title": "泰国展 · 倒计时 1 天",
+    "width": 1024,
+    "height": 1535
+  },
+  {
+    "slug": "thailand-2",
+    "title": "泰国展 · 倒计时 2 天",
+    "width": 1024,
+    "height": 1535
+  },
+  {
+    "slug": "thailand-3",
+    "title": "泰国展 · 倒计时 3 天",
+    "width": 1024,
+    "height": 1535
+  },
+  {
+    "slug": "wfes",
+    "title": "WFES 2024 · 阿布扎比展",
+    "width": 1200,
+    "height": 1800
+  },
+  {
+    "slug": "key",
+    "title": "K.EY 2024 · 意大利展",
+    "width": 1200,
+    "height": 1697
+  },
+  {
+    "slug": "brazil",
+    "title": "Intersolar South America 2023 · 巴西展",
+    "width": 1200,
+    "height": 2347
+  },
+  {
+    "slug": "pakistan",
+    "title": "Solar Pakistan 2024 · 巴基斯坦展",
+    "width": 1200,
+    "height": 1800
+  },
+  {
+    "slug": "snec",
+    "title": "SNEC 2024 · 上海展",
+    "width": 1200,
+    "height": 1953
+  },
+  {
+    "slug": "europe-green",
+    "title": "Intersolar Europe 2024 · 欧洲展（绿色版）",
+    "width": 1200,
+    "height": 1702
+  },
+  {
+    "slug": "europe-blue",
+    "title": "Intersolar Europe 2024 · 欧洲展（蓝色版）",
+    "width": 1200,
+    "height": 1837
+  }
+]

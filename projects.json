@@ -1,0 +1,183 @@
+[
+  {
+    "id": 0,
+    "title": "小奶哆 · 炸鸡与奶茶",
+    "category": "品牌设计",
+    "cover": 34,
+    "pages": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "description": "围绕炸鸡与奶茶的餐饮品牌形象，以鲜明的橙色、趣味角色和中英韩文字组合建立视觉识别。",
+    "detail": "从品牌标志与角色插画，延展到菜单、宣传物料、包装、手提袋与服装，呈现完整的品牌应用。"
+  },
+  {
+    "id": 1,
+    "title": "Choco Cookies",
+    "category": "标志设计",
+    "cover": 5,
+    "pages": [
+      5
+    ],
+    "description": "巧克力饼干主题的标志与包装视觉。",
+    "detail": "以暖棕色、饼干图形及统一的文字编排，将标志延展至产品包装和品牌物料。"
+  },
+  {
+    "id": 2,
+    "title": "宠物品牌视觉",
+    "category": "标志设计",
+    "cover": 6,
+    "pages": [
+      6
+    ],
+    "description": "围绕犬类形象展开的宠物品牌视觉展示。",
+    "detail": "将宠物图形与棕黄配色结合，呈现标志、吊牌、服装及用品上的应用。"
+  },
+  {
+    "id": 3,
+    "title": "茶品牌 · 标志与视觉应用",
+    "category": "标志设计",
+    "cover": 7,
+    "pages": [
+      7
+    ],
+    "description": "以茶为主题的标志与品牌应用展示。",
+    "detail": "绿色与浅色纸感搭配，将文字标志应用于手提袋、名片、茶包装及杯具。"
+  },
+  {
+    "id": 4,
+    "title": "Shella Scoops",
+    "category": "标志设计",
+    "cover": 8,
+    "pages": [
+      8
+    ],
+    "description": "冰淇淋品牌的标志与视觉应用。",
+    "detail": "以红、蓝与粉色建立活泼的视觉印象，结合棋盘格、徽章及文字图形延展品牌物料。"
+  },
+  {
+    "id": 5,
+    "title": "企业画册与产品资料",
+    "category": "平面设计",
+    "cover": 10,
+    "pages": [
+      10,
+      16,
+      17
+    ],
+    "description": "企业画册、产品单页与参数资料的版式设计。",
+    "detail": "围绕产品图片、技术信息和参数表组织层级，兼顾阅读节奏与信息传达。"
+  },
+  {
+    "id": 6,
+    "title": "节日海报 · 让光与故事相遇",
+    "category": "平面设计",
+    "cover": 0,
+    "pages": [],
+    "layout": "posters",
+    "coverImage": "assets/posters/dragon-thumb.webp",
+    "description": "13 张节日主题海报，探索品牌产品与节日场景的视觉连接。",
+    "detail": "用场景、色彩、文字和产品形象，表达不同节日的情绪。"
+  },
+  {
+    "title": "展会海报设计",
+    "category": "平面设计",
+    "cover": 0,
+    "pages": [],
+    "layout": "exhibitions",
+    "coverImage": "assets/exhibitions/philippines-1-thumb.webp",
+    "description": "从展会邀请到倒计时预热，以产品与地域文化构建品牌视觉。",
+    "detail": "13 张海报作品，涵盖菲律宾、泰国、阿布扎比、意大利、巴西、巴基斯坦、上海与欧洲展会。",
+    "id": 7
+  },
+  {
+    "title": "Banner 设计",
+    "category": "平面设计",
+    "cover": 0,
+    "pages": [],
+    "layout": "banners",
+    "coverImage": "assets/banners/mountain-thumb.webp",
+    "description": "以沉浸式影像，呈现品牌、产品与场景。",
+    "detail": "10 张 Banner 作品，涵盖产品视觉、品牌传播与场景视觉。",
+    "id": 8
+  },
+  {
+    "id": 9,
+    "title": "光伏产品宣传",
+    "category": "平面设计",
+    "cover": 14,
+    "pages": [
+      14,
+      15
+    ],
+    "description": "光伏产品 Banner 与新品发布主视觉。",
+    "detail": "以蓝色科技感和产品形象为核心，呈现线上宣传画面与线下发布场景。"
+  },
+  {
+    "id": 10,
+    "title": "数码与家居产品展示",
+    "category": "电商设计",
+    "cover": 19,
+    "pages": [
+      19,
+      20
+    ],
+    "description": "数码产品与厨房用品的电商 Listing 展示。",
+    "detail": "结合产品场景、卖点说明、尺寸与使用方式，通过信息图形组织商品内容。"
+  },
+  {
+    "id": 11,
+    "title": "户外与家居电商视觉",
+    "category": "电商设计",
+    "cover": 21,
+    "pages": [
+      21,
+      22
+    ],
+    "description": "户外、家居等品类的电商页面视觉。",
+    "detail": "通过场景图片、产品组合与模块化排版，呈现多品类商品信息。"
+  },
+  {
+    "id": 12,
+    "title": "食品详情页系列",
+    "category": "电商设计",
+    "cover": 23,
+    "pages": [
+      23,
+      24,
+      25
+    ],
+    "description": "草莓、抹茶食品与零食的移动端商品详情展示。",
+    "detail": "以对应食品的主题色建立识别，结合产品特写、原料展示与分段信息形成纵向阅读体验。"
+  },
+  {
+    "id": 13,
+    "title": "安全防护产品详情",
+    "category": "电商设计",
+    "cover": 26,
+    "pages": [
+      26
+    ],
+    "description": "安全帽类产品的电商详情页面展示。",
+    "detail": "运用深色与红色对比，组织产品形象、结构细节及功能信息。"
+  },
+  {
+    "id": 14,
+    "title": "车间与会议记录",
+    "category": "摄影作品",
+    "cover": 38,
+    "pages": [
+      38,
+      39
+    ],
+    "description": "生产车间与会议活动摄影。",
+    "detail": "记录生产环境、作业细节和活动现场，以真实影像呈现工作场景。"
+  }
+]

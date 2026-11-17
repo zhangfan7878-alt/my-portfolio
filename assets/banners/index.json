@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "mountain",
+    "title": "让能源，与自然共生",
+    "category": "场景视觉",
+    "description": "以山峦与晨光，呈现能源产品的应用想象。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "invitation",
+    "title": "走向世界的品牌邀请",
+    "category": "品牌传播",
+    "description": "菲律宾展与 SNEC 展会邀请视觉。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "acloud",
+    "title": "Acloud Eos 智能云平台",
+    "category": "产品视觉",
+    "description": "以多终端场景，呈现云平台的连接体验。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "monitoring",
+    "title": "看见每一块组件的表现",
+    "category": "产品视觉",
+    "description": "组件监测与异常定位主题传播视觉。",
+    "width": 1448,
+    "height": 1086
+  },
+  {
+    "slug": "micro-string",
+    "title": "V3.0 Micro-String",
+    "category": "产品视觉",
+    "description": "微逆解决方案的产品与场景表达。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "optimization",
+    "title": "从组件出发，理解优化",
+    "category": "品牌传播",
+    "description": "组件级优化主题 Newsletter 视觉。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "hotspot",
+    "title": "让对比，清晰可见",
+    "category": "品牌传播",
+    "description": "MRO 热斑对比测试主题内容视觉。",
+    "width": 1672,
+    "height": 941
+  },
+  {
+    "slug": "matrix",
+    "title": "完整产品矩阵",
+    "category": "产品视觉",
+    "description": "能源硬件与数字平台的系统化呈现。",
+    "width": 2200,
+    "height": 1320
+  },
+  {
+    "slug": "control-box",
+    "title": "光伏现场的连接中枢",
+    "category": "场景视觉",
+    "description": "数据控制箱在光伏场景中的产品展示。",
+    "width": 1536,
+    "height": 1024
+  },
+  {
+    "slug": "module",
+    "title": "细节，构成产品力量",
+    "category": "场景视觉",
+    "description": "组件背面的产品结构与材质表达。",
+    "width": 2200,
+    "height": 1241
+  }
+]
